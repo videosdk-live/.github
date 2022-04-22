@@ -24,21 +24,39 @@
 
 At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
 
+## UI Kits
+- [React JS Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui)
+- [React Native  Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-native-prebuilt-ui)
+## Code Samples
+- [Authentication API Servers Example](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
+
+- [React Example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example)
+
+- [Android Native Example](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
+
+- [iOS Native Example](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
+
+- [React Native Example](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
+
+- [Flutter Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
+
+
+
 ## Demo
 
-- ### React Js Demo: [Visit Now](https://videosdk.live/prebuilt)
+- [React Js Demo](https://videosdk.live/prebuilt)
 
-- ### Android Native Demo App: [Download Now](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [Android Native Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
 
-- ### Flutter Android Demo App: [Download Now](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [Flutter Android Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
 
-- ### React Native Android Demo App: [Download Now](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [React Native Android Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
 
-- ### iOS Native Demo App: [Download Now](https://testflight.apple.com/join/LYj3QJPx)
+- [iOS Native Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
-- ### Flutter iOS Demo App: [Download Now](https://testflight.apple.com/join/LYj3QJPx)
+- [Flutter iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
-- ### React Native iOS Demo App: [Download Now](https://testflight.apple.com/join/LYj3QJPx)
+- [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
