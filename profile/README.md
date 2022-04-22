@@ -30,6 +30,8 @@ At Video SDK, we’re building tools to help companies create world-class collab
 ## Code Samples
 - [Authentication API Servers Example](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
 
+- [JavaScript Example](https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example)
+
 - [React Example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example)
 
 - [Android Native Example](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
