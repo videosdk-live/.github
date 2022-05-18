@@ -24,6 +24,9 @@
 
 At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
 
+## Auth Server Examples
+- [Auth Examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
+
 ## Open Source UI Kits
 - [React JS Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui)
 - [React Native  Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-native-prebuilt-ui)
