@@ -31,6 +31,8 @@ At Video SDK, we’re building tools to help companies create world-class collab
 - [React JS Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui)
 - [React Native  Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-native-prebuilt-ui)
 ## Code Samples
+- [Prebuilt Examples](https://github.com/videosdk-live/videosdk-rtc-prebuilt-examples.git)
+
 - [Authentication API Servers Example](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
 
 - [JavaScript Example](https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example)
