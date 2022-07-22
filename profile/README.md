@@ -72,6 +72,10 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
+## Integrations 
+- Banuba
+  - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
+
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
 
