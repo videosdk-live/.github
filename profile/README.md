@@ -29,7 +29,8 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 ## Contribute Here
 - Open Source UI Kits
-  - [React JS Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui)
+  - [React + Next JS Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui)
+  - [React + Next JS Prebuilt SDK](https://github.com/videosdk-live/videosdk-live-rtc-js-prebuilt-sdk)
   - [React Native  Prebuilt UI Kit](https://github.com/videosdk-live/videosdk-rtc-react-native-prebuilt-ui)
 - Documentation
   - [Video SDK Official Documentation](https://github.com/videosdk-live/videosdk-docs)
