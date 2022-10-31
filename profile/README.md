@@ -43,6 +43,8 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [React Example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example)
 
+- [Angular Example](https://github.com/videosdk-live/videosdk-rtc-angular-javascript-example)
+
 - [Android Native Example (Java)](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
 
 - [Android Native Example (Kotlin)](https://github.com/videosdk-live/videosdk-rtc-android-kotlin-sdk-example)
