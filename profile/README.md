@@ -59,7 +59,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 ## Demo
 
-- [React Js Demo](https://videosdk.live/prebuilt)
+- [React Js Demo](https://videosdk.live/prebuilt/demo)
 
 - [Android Native Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
 
