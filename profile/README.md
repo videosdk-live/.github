@@ -53,11 +53,11 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [iOS Native Example](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
 
-- [React Native Example](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
+- [React Native (Android / iOS) Example](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
 
-- [Flutter Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
+- [Flutter (Android / iOS) Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
 
-- [Custom Recording/RTMP/Live Streaming Setup Example](https://github.com/videosdk-live/videosdk-custom-recording-template-react-example)
+- [Custom Recording / RTMP / Live Streaming Template Setup Example](https://github.com/videosdk-live/videosdk-custom-recording-template-react-example)
 
 
 
