@@ -73,7 +73,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [iOS Native Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
-- [Flutter iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
+- [Flutter iOS Demo App](https://testflight.apple.com/join/C1UOYbxh)
 
 - [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
