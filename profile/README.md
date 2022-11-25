@@ -64,9 +64,9 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [React Native Android Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
 
-- [iOS Native Demo App](https://testflight.apple.com/join/LYj3QJPx)
+- [iOS Native Demo App](https://testflight.apple.com/join/26EBZkcX)
 
-- [Flutter iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
+- [Flutter iOS Demo App](https://testflight.apple.com/join/C1UOYbxh)
 
 - [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
