@@ -58,11 +58,11 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [React Js Demo](https://videosdk.live/prebuilt/demo)
 
-- [Android Native Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [Android Native Demo App](https://appdistribution.firebase.dev/i/99ae2c5db3a7e446)
 
-- [Flutter Android Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [Flutter Android Demo App](https://appdistribution.firebase.dev/i/80c2c6cc9fcb89b0)
 
-- [React Native Android Demo App](https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b)
+- [React Native Android Demo App](https://appdistribution.firebase.dev/i/a4c63049415c4356)
 
 - [iOS Native Demo App](https://testflight.apple.com/join/26EBZkcX)
 
