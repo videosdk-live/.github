@@ -24,7 +24,7 @@
 
 At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
 
-## Auth Server Examples
+## Authentication and generating token
 - [Auth Examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
 
 ## Code Samples
@@ -54,7 +54,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 
 
-## Demo
+## Live Demos
 
 - [React Js Demo](https://videosdk.live/prebuilt/demo)
 
@@ -70,9 +70,9 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 - [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
 
-## Integrations 
-- Banuba
-  - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
+## Third Party Integrations 
+ - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
+ - React Native Call Trigger: [videosdk-rtc-react-native-call-trigger-example](https://github.com/videosdk-live/videosdk-rtc-react-native-call-trigger-example)
 
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
