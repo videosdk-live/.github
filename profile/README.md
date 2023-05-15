@@ -26,7 +26,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 
 ## Code Samples and Demos
-- Follow (https://docs.videosdk.live/code-sample)[https://docs.videosdk.live/code-sample]
+- Follow [code-sample](https://docs.videosdk.live/code-sample)
 
 ## Third Party Integrations 
  - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
