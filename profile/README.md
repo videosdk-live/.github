@@ -24,51 +24,9 @@
 
 At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
 
-## Authentication and generating token
-- [Auth Examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
 
-## Code Samples
-- [Prebuilt Examples](https://github.com/videosdk-live/videosdk-rtc-prebuilt-examples.git)
-
-- [Authentication API Servers Example](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
-
-- [JavaScript Example](https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example)
-
-- [React Example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example)
-
-- [Next Js Example](https://github.com/videosdk-live/videosdk-rtc-nextjs-sdk-example)
-
-- [Angular Example](https://github.com/videosdk-live/videosdk-rtc-angular-javascript-example)
-
-- [Android Native Example (Java)](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
-
-- [Android Native Example (Kotlin)](https://github.com/videosdk-live/videosdk-rtc-android-kotlin-sdk-example)
-
-- [iOS Native Example (Swift / Objective C)](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
-
-- [React Native (Android / iOS) Example](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
-
-- [Flutter (Android / iOS) Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
-
-- [Custom Recording / RTMP / Live Streaming Template Setup Example](https://github.com/videosdk-live/videosdk-custom-recording-template-react-example)
-
-
-
-## Live Demos
-
-- [React Js Demo](https://videosdk.live/prebuilt/demo)
-
-- [Android Native Demo App](https://appdistribution.firebase.dev/i/99ae2c5db3a7e446)
-
-- [Flutter Android Demo App](https://appdistribution.firebase.dev/i/80c2c6cc9fcb89b0)
-
-- [React Native Android Demo App](https://appdistribution.firebase.dev/i/a4c63049415c4356)
-
-- [iOS Native Demo App](https://testflight.apple.com/join/26EBZkcX)
-
-- [Flutter iOS Demo App](https://testflight.apple.com/join/C1UOYbxh)
-
-- [React Native iOS Demo App](https://testflight.apple.com/join/LYj3QJPx)
+## Code Samples and Demos
+- Follow (https://docs.videosdk.live/code-sample)[https://docs.videosdk.live/code-sample]
 
 ## Third Party Integrations 
  - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
