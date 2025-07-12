@@ -22,15 +22,9 @@
 <img src="https://img.shields.io/github/stars/videosdk-live/videosdk.live?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
-
 
 ## Code Samples and Demos
 - Follow [code-sample](https://docs.videosdk.live/code-sample)
-
-## Third Party Integrations 
- - Android Banuba Integration: [videosdk-rtc-android-sdk-banuba-example](https://github.com/videosdk-live/videosdk-rtc-android-sdk-banuba-example)
- - React Native Call Trigger: [videosdk-rtc-react-native-call-trigger-example](https://github.com/videosdk-live/videosdk-rtc-react-native-call-trigger-example)
 
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
